@@ -1,0 +1,31 @@
+203485bb-911d-5759-a46c-65743d888911
+
+Video 1: She is not doing any of the described activities. A sound comes from the tablet but she is not watching TV.
+
+Video 2: She sits on the couch and turns the TV on at 0:30
+
+Video 3, 4, 5: She remains on the couch
+
+Video 6: She lays in the couch and TV audio is clearly heard. At 7:10 there is clear light from the TV that reflects on the living room furniture, which is evidence the TV is on. At 13:20 she fully reclines on the couch. During this video, she permanently uses the phone.
+
+Video 7: The TB is still heard, she remains on her phone and is fully reclined on the couch. At 11:20 she grabs the TV control, and she remains with the attention to the TV, so she is actively watching it at least while she uses the control.
+
+Video 8, 9: She remains on the couch, with the cell phone and the TV on.
+
+Video 10: She is no longer on the couch and also does not watch TV. The TV is visibly on at 1:08
+
+Video 11: At 1:50 she sits again on the couch with the TV on
+
+Video 12: At 0:10 she sits again on the couch. She also fully reclines at 6:20
+
+Video 13 and 14: She remains reclined on the couch
+
+
+
+
+I marked Yes because both parts of the description are confirmed. She sits on the couch and turns the TV on in video 2 at 0:30, and from video 6 on she is lying on it: she lies down and fully reclines at 13:20, the TV is clearly audible and its light reflects on the furniture at 7:10. In video 7 at 11:20 she grabs the remote with her attention on the TV, so she is actively watching it while reclined. The TV stays on and audible through videos 8 and 9. She uses her phone through most of this stretch, but the description does not exclude that and the TV watching is clearly shown in video 7.
+
+I selected videos 2 to 9 and 11 to 14. Videos 3 to 5 show her still on the couch between turning the TV on and lying down. In video 11 she sits back on the couch with the TV on at 1:50, in video 12 she sits at 0:10 and reclines at 6:20, and videos 13 and 14 show her still reclined. I left out video 1, where she does nothing related and the sound comes from a tablet, and video 10, where she is off the couch and not watching although the TV is visibly on at 1:08.
+
+I set Happy at 2 because her expression stays neutral across the selected videos, with no smile, laugh or upbeat voice while she watches TV and uses her phone. I set Stressed at 0 because there are no cues of tension in her face, posture or voice at any point. I set Energized at 1 because her persistent state is sitting still or fully reclined on the couch (video 6 at 13:20, video 7 throughout, video 12 at 6:20, videos 13 and 14), with only brief movements such as turning the TV on in video 2 at 0:30, grabbing the remote in video 7 at 11:20 and leaving the couch in video 10. These short moments do not change the sustained low-energy state, so I did not rate from them.
+

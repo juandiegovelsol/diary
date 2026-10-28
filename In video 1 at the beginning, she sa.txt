@@ -1,0 +1,40 @@
+In video 1 at the beginning, she says something related to getting work done, but she sits in front of the computer watching videos on her phone (phone visible for a while around minute 12). At minute 10:07, she drops her phone on the desk and is visible using the PC while she says, "I need to go", and clicks are clearly audible.
+
+Video 2: She returns to the computer; there are clear Teams notification sounds, but it is not clear if they come from her PC or the other person in the room. It is clear she is typing on her keyboard because it sounds closer to the camera. 
+
+Video 3: There is clear evidence she is working; she says, "I use this as my Teams chat", then "Nothing else goes on this computer", and the laptop is visible, so that means she is actually using Teams on her laptop, logged in for work. While she is still watching the screens, she starts arguing with her husband, making a stressful situation there. She also persistently complains about the low temperature
+
+Video 4: She says, "I'm not getting any work done today... at all... but that's my Mondays", using it as an expression that she has a lot of things still pending. Still, working could be possible in other videos. The key thing here is that she is constantly using her phone while talking with her husband about a vendor event where she will bring cookies, which could also be considered work. Do you think that I should also mark this video?
+
+Video 5: She is logged in and working since the laptop is on. This is a separate video, but she is already active on the PC, so no login is visible
+
+Video 6: She is in bed using her phone while asking an LLM about cookies and the vendor event, and nothing related to the activity.
+
+Video 7: She uses her smartphone, but there is no evidence of doing vendor event things.
+
+Video 8: She only spends time on her phone; no clear use
+
+Video 9: She is clearly using her phone on Facebook because she mentions it.
+
+Video 10: She asks the LLM on her phone, "I want to make a Facebook post for my content saying that I'm going to be doing my first market event as a vendor...", then "support local because we are all local". She answers a call at 22:18:06. Regarding the emotions, she says, "I am excited to announce that"
+
+Video 11: She continues the conversation about the event happening on May 17th.
+
+Videos 12 to 15: Phone and no clear usage
+
+
+
+
+
+
+
+
+
+I marked Yes. Working is confirmed in video 10, where she dictates a Facebook post for her own business: "I want to make a Facebook post for my content saying that I'm going to be doing my first market event as a vendor" and "support local because we are all local". Answering calls is confirmed in the same video at 22:18:06, where she answers a call. Video 3 supports the work claim: she uses the PC with her laptop beside her and says of the laptop, "I use this as my Teams chat" and "Nothing else goes on this computer", so her work device is running while she is at the desk, although the PC screen content is not visible. Her remark in video 4, "I'm not getting any work done today... at all... but that's my Mondays", reads as frustration about pending work and does not cancel what the recordings show.
+
+I selected videos 1, 2, 3, 4, 5, 6, 10 and 11. Videos 1 (PC use with audible clicks from 10:07, after she puts the phone down), 2 (audible typing) and 5 (active PC use with the laptop on) show computer use that supports work. Videos 4, 6 and 11 deal with the vendor event that video 10 identifies as her own business, so they count as work preparation; in video 4 she also uses her phone with the screen content not visible. I excluded 7, 8, 9 and 12 to 15 because the audio shows she is watching content on her phone, on Facebook in video 9, which supports neither working nor calls.
+
+
+Happy 3: her expression is mostly neutral, but she laughs occasionally across the selected clips; the "I am excited to announce" line in video 10 is text she is dictating for a post, not a visible mood, so I did not raise the score for it. Stressed 6: she argues with her husband on several occasions, including video 3, where she also repeatedly complains about the cold, and she sounds frustrated in video 4 with "I'm not getting any work done today"; the arguments recur across the activity rather than in a single clip, so I placed the score at the upper middle. She is also worried about preparing for the vendor event. Energized 2: for most of the selected time, she sits at the desk or lies in bed on her phone with little movement, and the raised voice during the arguments is short-lived, so the energy level stays low.
+
+
